@@ -1,0 +1,11 @@
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\bin\Debug\netcoreapp2.0\Pizzas.deps.json
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\bin\Debug\netcoreapp2.0\Pizzas.runtimeconfig.json
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\bin\Debug\netcoreapp2.0\Pizzas.runtimeconfig.dev.json
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\bin\Debug\netcoreapp2.0\Pizzas.dll
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.csprojResolveAssemblyReference.cache
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.csproj.CoreCompileInputs.cache
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.AssemblyInfoInputs.cache
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.AssemblyInfo.cs
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\bin\Debug\netcoreapp2.0\Pizzas.pdb
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.dll
+c:\users\dhuelsbeck\documents\visual studio 2017\Projects\Pizzas\obj\Debug\netcoreapp2.0\Pizzas.pdb
